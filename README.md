@@ -1,2 +1,2 @@
 # Hello-world
-deneme çalışması
+System.out.print("Merhaba Dünya");
